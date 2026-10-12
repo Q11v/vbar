@@ -1,0 +1,117 @@
+# name: 计算机词汇
+# 程序员日常高频、且容易读错的词。音标为美式；第 4 列为发音提示。
+# 格式：单词<TAB>中文释义<TAB>音标<TAB>提示
+cache	n. 缓存	/kæʃ/	读作 cash，不读 /kæʃeɪ/ 或 /keɪtʃ/
+width	n. 宽度	/wɪdθ/	短元音 /ɪ/，不读 wide；结尾 /dθ/
+height	n. 高度	/haɪt/	结尾是 /t/，不是 /θ/
+length	n. 长度	/leŋθ/	/ŋ/ 后接 /θ/，别丢掉 g 的鼻音
+integer	n. 整数	/ˈɪntɪdʒər/	重音在第一音节；g 读 /dʒ/
+char	n. 字符（类型）	/tʃɑːr/	常读 /tʃɑːr/，也有人按 character 读 /kɛr/
+enum	n. 枚举	/ˈiːnʌm/	也常读 /ˈiːnuːm/
+boolean	n./adj. 布尔（值）	/ˈbuːliən/	三音节 boo-lee-an
+tuple	n. 元组	/ˈtuːpəl/	也读 /ˈtʌpəl/
+lambda	n. lambda 表达式	/ˈlæmdə/	b 不发音
+alias	n. 别名	/ˈeɪliəs/	重音在第一音节，读 AY-lee-us
+null	n. 空值	/nʌl/	元音同 cup
+void	adj. 空的；无返回值	/vɔɪd/
+queue	n. 队列	/kjuː/	和字母 Q 同音，后面的 ue 都不发音
+deque	n. 双端队列	/dek/	读作 deck
+suite	n. 套件	/swiːt/	读作 sweet，不读 suit
+route	n. 路由；路线	/raʊt/	美式常读 /raʊt/，也读 /ruːt/
+router	n. 路由器	/ˈraʊtər/
+query	n./v. 查询	/ˈkwɪri/	元音是 /ɪ/
+schema	n. 模式；结构定义	/ˈskiːmə/	ch 读 /k/
+archive	n./v. 归档	/ˈɑːrkaɪv/	ch 读 /k/，重音在第一音节
+architecture	n. 架构	/ˈɑːrkɪtektʃər/	开头 ch 读 /k/
+hierarchy	n. 层级结构	/ˈhaɪərɑːrki/	ch 读 /k/；重音在第一音节
+cipher	n. 密码；加密算法	/ˈsaɪfər/
+async	adj. 异步的	/ˈeɪsɪŋk/	读作 AY-sink
+asynchronous	adj. 异步的	/eɪˈsɪŋkrənəs/	重音在 syn
+synchronous	adj. 同步的	/ˈsɪŋkrənəs/	重音在第一音节
+concurrency	n. 并发	/kənˈkɜːrənsi/	重音在 cur
+parameter	n. 参数	/pəˈræmɪtər/	重音在第二音节 ram
+variable	n. 变量	/ˈveriəbəl/	重音在第一音节
+algorithm	n. 算法	/ˈælɡərɪðəm/	th 读浊音 /ð/
+binary	adj. 二进制的	/ˈbaɪnəri/	第一个元音是 /aɪ/
+recursive	adj. 递归的	/rɪˈkɜːrsɪv/	重音在 cur
+iterate	v. 迭代	/ˈɪtəreɪt/	重音在第一音节
+execute	v. 执行	/ˈeksɪkjuːt/	重音在第一音节
+executable	adj. 可执行的 n. 可执行文件	/ɪɡˈzekjətəbəl/	重音移到第二音节；x 读 /ɡz/
+compile	v. 编译	/kəmˈpaɪl/	重音在第二音节
+deploy	v. 部署	/dɪˈplɔɪ/	重音在第二音节
+debug	v. 调试	/diːˈbʌɡ/
+component	n. 组件	/kəmˈpoʊnənt/	重音在 po
+interface	n. 接口	/ˈɪntərfeɪs/	重音在第一音节
+protocol	n. 协议	/ˈproʊtəkɑːl/	重音在第一音节
+module	n. 模块	/ˈmɑːdʒuːl/	d 读 /dʒ/
+config	n. 配置	/kənˈfɪɡ/	也常读 /ˈkɑːnfɪɡ/
+directory	n. 目录	/dəˈrektəri/	也读 /daɪˈrektəri/
+repository	n. 仓库	/rɪˈpɑːzətɔːri/	重音在 po
+commit	v./n. 提交	/kəˈmɪt/	重音在第二音节
+merge	v. 合并	/mɜːrdʒ/
+rebase	v. 变基	/riːˈbeɪs/
+refactor	v. 重构	/riːˈfæktər/	重音在 fac
+render	v. 渲染	/ˈrendər/
+deprecated	adj. 已弃用的	/ˈdeprəkeɪtɪd/	别和 depreciated（贬值）混淆
+legacy	n./adj. 遗留（系统）	/ˈleɡəsi/	重音在第一音节
+idempotent	adj. 幂等的	/ˌaɪdəmˈpoʊtənt/	读作 eye-dem-POH-tent
+latency	n. 延迟	/ˈleɪtənsi/	重音在第一音节
+throughput	n. 吞吐量	/ˈθruːpʊt/	th 读清音 /θ/
+bandwidth	n. 带宽	/ˈbændwɪdθ/
+database	n. 数据库	/ˈdeɪtəbeɪs/
+data	n. 数据	/ˈdeɪtə/	也读 /ˈdætə/
+index	n. 索引	/ˈɪndeks/
+indices	n. 索引（复数）	/ˈɪndɪsiːz/	结尾读 /siːz/
+vertex	n. 顶点	/ˈvɜːrteks/
+vertices	n. 顶点（复数）	/ˈvɜːrtɪsiːz/	结尾读 /siːz/
+matrix	n. 矩阵	/ˈmeɪtrɪks/	第一个元音是 /eɪ/
+hash	n./v. 哈希	/hæʃ/
+thread	n. 线程	/θred/	th 读清音 /θ/，不读 /s/ 或 /t/
+kernel	n. 内核	/ˈkɜːrnəl/
+daemon	n. 守护进程	/ˈdiːmən/	读作 demon
+cursor	n. 光标；游标	/ˈkɜːrsər/
+widget	n. 小部件	/ˈwɪdʒɪt/
+pixel	n. 像素	/ˈpɪksəl/
+syntax	n. 语法	/ˈsɪntæks/
+semantic	adj. 语义的	/sɪˈmæntɪk/	重音在 man
+regex	n. 正则表达式	/ˈredʒeks/	也读 /ˈreɡeks/
+pseudo	adj. 伪的	/ˈsuːdoʊ/	p 不发音
+mnemonic	n. 助记符	/nɪˈmɑːnɪk/	开头 m 不发音
+certificate	n. 证书	/sərˈtɪfɪkət/	重音在 ti；结尾 /kət/
+privilege	n. 权限	/ˈprɪvəlɪdʒ/	重音在第一音节
+authenticate	v. 认证	/ɔːˈθentɪkeɪt/	th 读 /θ/，重音在 then
+authorization	n. 授权	/ˌɔːθərəˈzeɪʃən/
+encryption	n. 加密	/ɪnˈkrɪpʃən/
+token	n. 令牌	/ˈtoʊkən/
+sudo	以超级用户执行	/ˈsuːduː/	常读 SOO-doo，也读 SOO-doh
+Linux	n. Linux 系统	/ˈlɪnəks/	短元音 /ɪ/，不读 /ˈlaɪnəks/
+Ubuntu	n. Ubuntu 系统	/ʊˈbʊntuː/	重音在第二音节
+Debian	n. Debian 系统	/ˈdebiən/	读作 DEB-ee-an
+nginx	n. Nginx 服务器	/ˌendʒɪnˈeks/	读作 engine-x
+Apache	n. Apache 基金会/服务器	/əˈpætʃi/	读作 a-PATCH-ee
+Kubernetes	n. 容器编排系统	/ˌkuːbərˈnetiːz/	重音在 net；缩写 k8s
+Azure	n. 微软云	/ˈæʒər/	重音在第一音节
+Django	n. Python Web 框架	/ˈdʒæŋɡoʊ/	D 不发音
+Vue	n. Vue 前端框架	/vjuː/	读作 view
+JSON	n. 数据格式	/ˈdʒeɪsən/	读作 Jason
+YAML	n. 配置格式	/ˈjæməl/	和 camel 押韵
+SQL	n. 结构化查询语言	/ˈsiːkwəl/	读 sequel 或逐个字母 S-Q-L 都可以
+MySQL	n. 数据库	/ˌmaɪ ˌes kjuː ˈel/	官方读法 my-S-Q-L
+PostgreSQL	n. 数据库	/ˈpoʊstɡres ˌkjuː ˈel/	读作 post-gres-Q-L，常简称 Postgres
+Redis	n. 内存数据库	/ˈredɪs/	读作 RED-iss
+GUI	n. 图形用户界面	/ˈɡuːi/	读作 gooey
+GIF	n. 动图格式	/ɡɪf/	/ɡɪf/ 和 /dʒɪf/ 都有人用
+Git	n. 版本控制工具	/ɡɪt/	g 读 /ɡ/
+Python	n. 编程语言	/ˈpaɪθɑːn/	th 读清音 /θ/
+Java	n. 编程语言	/ˈdʒɑːvə/
+Lua	n. 编程语言	/ˈluːə/
+Jupyter	n. 交互式笔记本	/ˈdʒuːpɪtər/	同 Jupiter
+NumPy	n. Python 数值计算库	/ˈnʌmpaɪ/	读作 NUM-pie
+PyPI	n. Python 包索引	/ˌpaɪpiːˈaɪ/	读作 pie-P-I，不读 pie-pie
+Grafana	n. 监控面板	/ɡrəˈfɑːnə/	重音在 fa
+Prometheus	n. 监控系统	/prəˈmiːθiəs/	重音在 me
+Xcode	n. 苹果开发工具	/ˈekskoʊd/	读作 X-code
+macOS	n. 苹果系统	/ˌmækoʊˈes/	读作 mac-O-S
+Wi-Fi	n. 无线网络	/ˈwaɪfaɪ/
+via	prep. 通过；经由	/ˈvaɪə/	也读 /ˈviːə/
+etc.	等等	/et ˈsetərə/	读作 et cetera，不读 E-T-C
